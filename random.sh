@@ -6,3 +6,4 @@ echo "You're Randon Numner is...$X"
 
 echo "Mr Floss!"
 echo "Mr Doss!"
+echo "Mr Loss"
